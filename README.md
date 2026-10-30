@@ -1,6 +1,6 @@
 # Hi, I'm Sonal! 👋
 
-### Final-Year ETE Student | Software Developer | Data Science & ML Enthusiast
+### Final-Year Student | Software Developer | Data Science & ML Enthusiast
 
 I'm a final-year Electronics & Telecommunication Engineering student at Ramaiah Institute of Technology, Bengaluru, graduating in 2027.
 
